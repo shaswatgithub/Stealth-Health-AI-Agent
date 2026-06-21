@@ -6,6 +6,21 @@ An AI-powered wellness coaching assistant that personalizes health guidance thro
 
 Stealth Health AI Agent is designed to simulate a personalized health coach. The system extracts structured patient information from unstructured onboarding text, adapts its behavior based on the user's protocol day, remembers previous interactions within a session, and answers wellness-related questions using a predefined protocol.
 
+# 🕵️ Stealth Health AI Agent
+
+### 🚀 Live Demo
+
+**Streamlit App:**
+https://stealth-health-ai-agent-qv84dd6fsmh4wrhureqd4z.streamlit.app/
+### 📂 GitHub Repository
+
+https://github.com/shaswatgithub/Stealth-Health-AI-Agent
+
+---
+
+An AI-powered wellness coaching assistant that personalizes health guidance through structured patient onboarding, adaptive daily check-ins, session memory, and protocol-grounded responses.
+
+
 ## ✨ Features
 
 ### 1. Patient Onboarding Extraction
