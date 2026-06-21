@@ -15,7 +15,7 @@ The agent converts unstructured onboarding text into a structured patient profil
 **Input Example**
 
 ```text
-I am Shaswat, 22 years old.
+I am Guewst, 22 years old.
 My goal is improving sleep.
 I currently sleep 5 hours.
 Put me on Day 5.
@@ -25,7 +25,7 @@ Put me on Day 5.
 
 ```json
 {
-  "name": "Shaswat",
+  "name": "Guest",
   "age": 22,
   "primary_goal": "improving sleep",
   "sleep_hours": 5,
@@ -107,7 +107,7 @@ stealth-health-ai-agent/
 Clone the repository:
 
 ```bash
-git clone https://github.com/shaswatgithub/Stealth-Health-AI-Agent.git
+git clone https://github.com/Guestgithub/Stealth-Health-AI-Agent.git
 cd Stealth-Health-AI-Agent
 ```
 
@@ -138,7 +138,7 @@ The application supports onboarding through URL query parameters.
 Example:
 
 ```text
-https://your-app.streamlit.app/?raw_data=I am Shaswat, 22 years old. My goal is improving sleep. I currently sleep 5 hours. Put me on Day 5.
+https://your-app.streamlit.app/?raw_data=I am Guest, 22 years old. My goal is improving sleep. I currently sleep 5 hours. Put me on Day 5.
 ```
 
 The agent automatically extracts and displays the patient profile.
@@ -176,6 +176,6 @@ The agent automatically extracts and displays the patient profile.
 
 ## 👨‍💻 Author
 
-**Shaswat**
+**SHASWAT**
 
 Built as an AI Agent MVP demonstrating structured extraction, adaptive coaching, memory, and protocol-grounded reasoning.
